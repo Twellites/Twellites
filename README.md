@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Twellites, I'm 13 years old and im trying my best to learn coding languages
 - 👀 I’m interested in Software Development/Engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript and soon React.js
 - 💞️ I’m looking to collaborate on anything that will make me smarter
 - 📫 How to reach me: twell#0001 on discord
 

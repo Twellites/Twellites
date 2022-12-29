@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JS 
 - 📫 How to reach me: twell#0001 on discord **twelites23@gmail.com** for email
 
-## If you ever see this (you probably won't) please reach out to me as I barely know anything about coding!
+## If you ever see this please reach out to me as I barely know anything about coding!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twellites&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---

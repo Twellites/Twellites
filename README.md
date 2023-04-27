@@ -1,5 +1,5 @@
 ### Who Am I?
-- 👋 Hi, I’m @Twellites, I'm 13 years old and im trying my best to learn coding languages
+- 👋 Hi, I’m @Twellites, I'm 14 years old and im trying my best to learn coding languages
 - 👀 I’m interested in JS and TS
 - 🌱 I’m currently learning JS 
 - 📫 How to reach me: twell#0001 on discord **twelites23@gmail.com** for email

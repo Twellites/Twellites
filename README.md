@@ -1,8 +1,8 @@
 ### Who Am I?
-- 👋 Hi, I’m @Twellites, I'm 14 years old and im trying my best to learn coding languages
+- 👋 Hi, I’m @Twellites, I'm 15 years old and I'm trying my best to learn coding languages
 - 👀 I’m interested in JS and TS
 - 🌱 I’m currently learning JS 
-- 📫 How to reach me: **twell** or **stifling.** on discord **twelites23@gmail.com** for email
+- 📫 How to reach me:**twelites23@gmail.com**
 
 ## If you ever see this please reach out to me as I barely know anything about coding!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twellites&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
